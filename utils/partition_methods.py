@@ -2,7 +2,7 @@ import numpy as np
 import numpy.ma as ma
 from sklearn.cluster import MiniBatchKMeans
 
-def kmeans_knn_partition(tseries,n_seeds,batchsize=None,return_centers=False):
+def kmeans_partition(tseries,n_seeds,batchsize=None,return_centers=False):
     if batchsize==None:
         batchsize = len(tseries)//100
     if ma.count_masked(tseries)>0:
