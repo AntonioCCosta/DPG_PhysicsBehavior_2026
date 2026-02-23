@@ -1,0 +1,10 @@
+deeptime
+scikit-learn
+matplotlib
+scipy
+h5py
+numpy
+umap-learn
+pot
+scikit-fuzzy
+scikit-fda
