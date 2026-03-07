@@ -143,7 +143,7 @@ The tutorial covers methods and concepts from the following works:
 
 Questions? Reach out:
 
-- 📧 antonioccosta.phys@gmail.com
+- 📧 antonioccosta.phys [at] gmail [dot] com
 - 🌐 [antonioccosta.github.io](https://antonioccosta.github.io/)
 
 ---
