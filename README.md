@@ -104,6 +104,41 @@ Python 3.8+ recommended.
 
 ---
 
+## 📚 References
+
+The tutorial covers methods and concepts from the following works:
+
+**Transfer operators & metastable dynamics**
+- Risken. "Fokker-planck equation." In The Fokker-Planck equation: methods of solution and applications, pp. 63-95. Berlin, Heidelberg: Springer Berlin Heidelberg, 1989.
+- Hänggi, Talkner, Borkovec. "Reaction-rate theory: fifty years after Kramers." *Reviews of modern physics* 62, no. 2 (1990): 251.
+- Chang, Cooper. "A practical difference scheme for Fokker-Planck equations." *Journal of Computational Physics* 6, no. 1 (1970): 1-16.
+- Froyland, Dellnitz. "Detecting and locating near-optimal almost-invariant sets and cycles." *SIAM Journal on Scientific Computing* 24, no. 6 (2003): 1839-1863.
+- Froyland, Padberg. "Almost-invariant sets and invariant manifolds—connecting probabilistic and geometric descriptions of coherent structures in flows." *Physica D: Nonlinear Phenomena* 238, no. 16 (2009): 1507-1523.
+- Bollt, Santitissadeekorn, eds. "Applied and computational measurable dynamics". Society for Industrial and Applied Mathematics, 2013.
+
+**Markov state models & data-driven approaches**
+- Bowman, Pande, Noé, eds. "An introduction to Markov state models and their application to long timescale molecular simulation". Springer Science & Business Media, 2013.
+- Coifman, Lafon. "Diffusion maps." *Applied and computational harmonic analysis* 21, no. 1 (2006): 5-30.
+
+**Delay embedding & predictability**
+- Sauer, Yorke, Casdagli. "Embedology." *Journal of statistical Physics*, 65(3) (1991) pp.579-616.
+- Gaspard, Wang. "Noise, chaos, and (ε, τ)-entropy per unit time." *Physics reports* 235, no. 6 (1993): 291-343.
+
+**Unstable periodic orbits**
+- Barrio, Dena, Tucker. "A database of rigorous and high-precision periodic orbits of the Lorenz model." *Computer Physics Communications* 194 (2015): 76-83.
+
+**C. elegans behavioral analysis**
+- Stephens, Johnson-Kerner, Bialek, Ryu. "Dimensionality and dynamics in the behavior of *C. elegans*". *PLoS Computational Biology*, 4(4), e1000028 (2008).
+- Costa A.C., Ahamed, Jordan, Stephens. "Maximally predictive states: from partial observations to long timescales" *Chaos* 2023
+- Costa A.C., Ahamed, Jordan, Stephens. "A Markovian dynamics for Caenorhabditis elegans behavior across scales." *PNAS* 121, no. 32 (2024): e2318805121.
+
+**Further applications of these techniques
+- Costa A.C., Sridhar, Wyart, Vergassola. "Fluctuating landscapes and heavy tails in animal behavior." *PRX life* 2, no. 2 (2024): 023001.
+- Sridhar, Vergassola, Marques, Orger, Costa A.C., Wyart. "Uncovering multiscale structure in the variability of larval zebrafish navigation." *PNAS* 121, no. 47 (2024): e2410254121.
+
+
+---
+
 ## 📬 Contact
 
 Questions? Reach out:
