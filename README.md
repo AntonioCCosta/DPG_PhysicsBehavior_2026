@@ -132,7 +132,7 @@ The tutorial covers methods and concepts from the following works:
 - Costa A.C., Ahamed, Jordan, Stephens. "Maximally predictive states: from partial observations to long timescales" *Chaos* 2023
 - Costa A.C., Ahamed, Jordan, Stephens. "A Markovian dynamics for Caenorhabditis elegans behavior across scales." *PNAS* 121, no. 32 (2024): e2318805121.
 
-**Further applications of these techniques
+**Further applications of these techniques**
 - Costa A.C., Sridhar, Wyart, Vergassola. "Fluctuating landscapes and heavy tails in animal behavior." *PRX life* 2, no. 2 (2024): 023001.
 - Sridhar, Vergassola, Marques, Orger, Costa A.C., Wyart. "Uncovering multiscale structure in the variability of larval zebrafish navigation." *PNAS* 121, no. 47 (2024): e2410254121.
 
