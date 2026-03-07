@@ -1,6 +1,8 @@
 # Physics of Behavior — DPG 2026 Tutorial
 
-**Tutorial session at the [Deutsche Physikalische Gesellschaft (DPG) Spring Meeting 2026](https://www.dpg-physik.de/)**
+**Tutorial session at the [DPG Spring Meeting Dresden 2026](https://dresden26.dpg-tagungen.de/)**
+
+Given by [Antonio Carlos Costa, PI INSERM, Paris Brain Institute](https://antonioccosta.github.io/)
 
 ---
 
