@@ -151,3 +151,9 @@ Questions? Reach out:
 ## 📄 License
 
 Released under [CC0 1.0 Universal](LICENSE) (Public Domain). Free to use, adapt, and redistribute without restriction.
+
+## Citation
+
+If you use this tutorial, please cite:
+
+Antonio Carlos Costa. "AntonioCCosta/DPG_PhysicsBehavior_2026: Physics of Behavior Tutorial". *Zenodo*, 7 March 2026. https://doi.org/10.5281/zenodo.18900820.
